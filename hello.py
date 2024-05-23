@@ -1,4 +1,4 @@
 print("Hello world")
 
-print("Como te llamas? ")
+input("Como te llamas? ")
 print("angel")
